@@ -1,0 +1,15 @@
+.left{
+  display: inline-block;
+}
+input{
+  display: block;
+}
+button{
+  display: block;
+}
+.right{
+  display: inline-block;
+}
+/*p{
+  display: inline;
+}*/
